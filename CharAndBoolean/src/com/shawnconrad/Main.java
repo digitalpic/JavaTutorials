@@ -7,7 +7,7 @@ public class Main {
         // One character, symbol, unicode accepted.
         char myChar = '\u00AE';
         System.out.println("Unicode output was " + myChar);
-
+        // Boolean always True or False.
         boolean myBoolean = false;
         boolean isMale = true;
 
